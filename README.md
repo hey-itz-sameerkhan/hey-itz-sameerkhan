@@ -98,7 +98,7 @@ Scroll-triggered 3D animation using GSAP, Canvas API, and sequence image renderi
 ## ✨ Signature
 <p align="center">
   <img src="https://your-gif-or-signature-animation.com" width="300" /><img width="1024" height="1024" alt="my github profile logo" src="https://github.com/user-attachments/assets/d5b565df-151a-435f-b889-77a9e0176173" />
-<img width="1024" height="1024" alt="my github profile logo" src="https://github.com/user-attachments/assets/0c6a521f-397b-416d-9bc4-1ccc84e6c2d6" />
+
 
 </p>
 
