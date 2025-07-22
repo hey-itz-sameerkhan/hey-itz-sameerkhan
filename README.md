@@ -5,7 +5,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://your-logo-link.com" alt="Sameer Khan Logo" width="200" />
+  <img src="https://drive.google.com/file/d/1LZ4UvLioii1fbZs7Y4j2QvpfMugDkApN/view?usp=drive_link" alt="Sameer Khan Logo" width="200" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Sameer Khan</h1>
@@ -97,7 +97,9 @@ Scroll-triggered 3D animation using GSAP, Canvas API, and sequence image renderi
 
 ## ✨ Signature
 <p align="center">
-  <img src="https://your-gif-or-signature-animation.com" width="300" />
+  <img src="https://your-gif-or-signature-animation.com" width="300" /><img width="1024" height="1024" alt="my github profile logo" src="https://github.com/user-attachments/assets/d5b565df-151a-435f-b889-77a9e0176173" />
+<img width="1024" height="1024" alt="my github profile logo" src="https://github.com/user-attachments/assets/0c6a521f-397b-416d-9bc4-1ccc84e6c2d6" />
+
 </p>
 
 ---
