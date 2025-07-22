@@ -1,52 +1,103 @@
-<!-- Banner (you can replace with your hosted banner GIF/image) -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F700FF&background=000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Sameer+Khan+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Creative+UI+Designer+%F0%9F%93%8C;Scroll+Animation+Artist+%F0%9F%8E%AC" alt="Typing SVG" />
+  <img src="https://your-banner-image-link.com" alt="Sameer Khan Banner" width="100%" />
 </p>
 
 <!-- Logo -->
 <p align="center">
-  <img src="bl.png" width="200" alt="Sameer Khan Logo" />
+  <img src="https://your-logo-link.com" alt="Sameer Khan Logo" width="200" />
 </p>
 
-<h1 align="center">🚀 Welcome to my GitHub Profile</h1>
+<h1 align="center">Hey 👋, I'm Sameer Khan</h1>
+<h3 align="center">🎮 Innovative Frontend Web Developer | JavaScript Enthusiast | UI/UX Crafter</h3>
 
 ---
 
-## 🧠 About Me
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
+</p>
 
-js
-const sameerKhan = {
-  name: "Sameer Khan",
-  role: "Frontend Developer",
-  code: ["HTML", "CSS", "JavaScript", "React", "SCSS", "GSAP"],
-  tools: ["VS Code", "GitHub", "Figma", "Postman"],
-  hobbies: ["Crafting Animations", "Designing UIs", "Solving UI Bugs"],
-  funFact: "I make scrolls cinematic ✨",
-};
-🔧 Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,github,git,vscode,figma,postman,scss" /> </p>
-💼 Featured Projects
-🛕 Braj Darshan – Tour & Travel Website
-GitHub: Repository
+---
 
-PPT: Google Drive
+## 🧠 About Me  
+🚀 I’m a passionate **Frontend Developer** focused on building interactive and responsive user interfaces.  
+🌐 I love exploring **Canvas API**, **GSAP animations**, and **AI-powered interactions**.  
+💡 Currently crafting visually stunning web experiences using **React**, **ScrollTrigger**, **Framer Motion**, and more.
 
-Tech Used: HTML, CSS, JS, Responsive Design
+---
 
-🎬 Interactive 3D Scroll Animation
-GitHub: Repository
+## 🛠️ Skills & Tools
 
-PPT: Google Drive
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)
 
-Description: Scroll-synced 3D animation using GSAP & Canvas API
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hey-itz-sameerkhan&show_icons=true&theme=radical" alt="stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-itz-sameerkhan&theme=radical" alt="streak"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hey-itz-sameerkhan&theme=radical&no-frame=true&margin-w=10" /> </p>
-🌐 Connect with Me
-<p align="center"> <a href="https://github.com/hey-itz-sameerkhan"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://linkedin.com/in/sameerkhan2003"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:sameerkhan172003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://www.instagram.com/the_samee_khan1/"><img src="https://skillicons.dev/icons?i=instagram" /></a> <a href="https://wa.me/919821234567"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28"/></a> </p>
-💬 Dev Quote
-“The frontend is not just pixels. It's perception, precision, and pure love.” — Sameer Khan 💙
+</div>
 
-🕹️ Bonus Touch (GIF)
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> </p>
-🐍 Snake Game Contribution Tracker
+---
+
+## 📌 Featured Projects
+
+### 🚘 [Braj Darshan – Tour & Travel Website](https://braj-darshan-tour-and-travels.netlify.app/)
+A beautiful cultural tourism website built with love, smooth scroll animations, and responsive design.  
+[GitHub Repo](https://github.com/hey-itz-sameerkhan/Braj-Darshan) | [Presentation](https://drive.google.com/file/d/1obBGHkyTx93HjvfUx84dBvD9k51mC1na/view)
+
+---
+
+### 🎬 [Interactive 3D Scroll Animation](https://interactive-3d-scroll-animation.netlify.app/)
+Scroll-triggered 3D animation using GSAP, Canvas API, and sequence image rendering.  
+[GitHub Repo](https://github.com/hey-itz-sameerkhan/animation-project) | [Presentation](https://drive.google.com/file/d/1o_ryXJNOfShdHL0TXxxAMwQfuSrUbp6c/view)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hey-itz-sameerkhan&show_icons=true&theme=radical" alt="stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-itz-sameerkhan&theme=radical" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Game
+
+![Snake animation](https://github.com/hey-itz-sameerkhan/hey-itz-sameerkhan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sameerkhan2003" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/the_samee_khan1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://wa.me/919761068542" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="mailto:sameerkhan172003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://sameerkhanport.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" /></a>
+</p>
+
+---
+
+## 💬 Favorite Quote
+> "Design is not just what it looks like and feels like. **Design is how it works.**" – *Steve Jobs*
+
+---
+
+## ✨ Signature
+<p align="center">
+  <img src="https://your-gif-or-signature-animation.com" width="300" />
+</p>
+
+---
