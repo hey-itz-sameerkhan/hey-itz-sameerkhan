@@ -69,6 +69,13 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hey-itz-sameerkhan&theme=tokyonight"/>
 </p>
 
+<p align="center">
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hey-itz-sameerkhan&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 
 ## 🏆 GitHub Trophies
@@ -81,23 +88,35 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://sameerkhanport.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:sameerkhan172003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sameerkhan2003" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/the_samee_khan1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/919758598428" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 0 14px;">
+      <a href="https://sameerkhanport.netlify.app/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 14px;">
+      <a href="mailto:sameerkhan172003@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 14px;">
+      <a href="https://linkedin.com/in/sameerkhan2003" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 14px;">
+      <a href="https://www.instagram.com/the_samee_khan1/" target="_blank">
+        <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center" style="padding: 0 14px;">
+      <a href="https://wa.me/919758598428" target="_blank">
+        <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,15 +124,8 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 
 > “Great web experiences aren’t just coded — they’re crafted.” — *Sameer Khan*
 
----
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hey-itz-sameerkhan&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hey-itz-sameerkhan&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hey-itz-sameerkhan&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey-itz-sameerkhan&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hey-itz-sameerkhan&theme=tokyonight&utcOffset=5.5" />
-</p>
+
 
 
 
