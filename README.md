@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/hey-itz-sameerkhan/hey-itz-sameerkhan/assets/your-image-id" width="100px" />
+  <img src="IMG-20250722-WA0002.jpg" width="300px" />
   <br/>
   Hi there, I'm <span style="color:#00ffff;">Sameer Khan</span> 👋
 </h1>
@@ -33,20 +33,28 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 
 ### 🚀 Languages, Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,scss,mui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,tailwind,bootstrap,scss,mui,gsap" />
 </p>
+
+
 
 ### 🧰 Tools, Platforms & Utilities
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm,postman,lottie,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm,postman,figma,webpack,babel,eslint,prettier" />
 </p>
 
+
 ### 🎯 Core Specialties
-- Canvas API, DOM Manipulation, GSAP Animation
-- ScrollTrigger, Locomotive Scroll, Framer Motion
-- Responsive Design, UI Optimization
-- REST API Integration & Testing
-- Clean Architecture & Version Control
+<div style="background-color:#000000; padding: 20px; border-radius: 10px;">
+  <ul style="list-style: none; padding-left: 0; font-size: 18px; color: #00FFFF; font-weight: 600;">
+    <li>💠 Canvas API, DOM Manipulation, GSAP Animation</li>
+    <li>🌀 ScrollTrigger, Locomotive Scroll, Framer Motion</li>
+    <li>📱 Responsive Design, UI Optimization</li>
+    <li>🔗 REST API Integration & Testing</li>
+    <li>🛠️ Clean Architecture & Version Control</li>
+  </ul>
+</div>
+
 
 ---
 
@@ -59,6 +67,14 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hey-itz-sameerkhan&theme=tokyonight"/>
+</p>
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hey-itz-sameerkhan&theme=darkhub&no-frame=true&column=8&margin-w=10" />
 </p>
 
 ---
@@ -91,17 +107,16 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 
 ---
 
-## 🐍 Snake Game Contribution Tracker
-
-![Snake animation](https://github.com/hey-itz-sameerkhan/hey-itz-sameerkhan/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hey-itz-sameerkhan&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hey-itz-sameerkhan&theme=tokyonight&utcOffset=5.5" />
 </p>
+
+
+
 
 ---
 
