@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="IMG-20250722-WA0002.jpg" width="300px" />
+  <img src="Remove the text _SAM.png" width="300px" />
   <br/>
   Hi there, I'm <span style="color:#00ffff;">Sameer Khan</span> 👋
 </h1>
@@ -111,7 +111,7 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
       </a>
     </td>
     <td align="center" style="padding: 0 14px;">
-      <a href="https://wa.me/919758598428" target="_blank">
+      <a href="https://wa.me/919068446055" target="_blank">
         <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" />
       </a>
     </td>
