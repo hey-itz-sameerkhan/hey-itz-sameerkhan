@@ -65,7 +65,6 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hey-itz-sameerkhan&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-itz-sameerkhan&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
