@@ -1,18 +1,15 @@
-<h1 align="center">
-  <img src="Remove the text _SAM.png" width="300px" />
-  <br/>
-  Hi there, I'm <span style="color:#00ffff;">Sameer Khan</span> 👋
-</h1>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Innovative+Frontend+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning&center=true&width=500&height=30&color=00FFFF&size=20">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=Hey%20👋%20I'm%20Sameer%20Khan&fontColor=0d1117&fontSize=45&fontAlignY=35&desc=Innovative%20Frontend%20Web%20Developer&descSize=18&descAlign=62" />
+  
+  <img src="https://readme-typing-svg.demolab.com/?lines=Pixel+Perfect+Designer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning&center=true&width=500&height=30&color=00FFFF&size=20">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from India 🇮🇳, who blends **creativity** with **code** to craft intuitive, high-performance web interfaces.  
+I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from India , who blends **creativity** with **code** to craft intuitive, high-performance web interfaces.  
 
 💡 With a sharp eye for design and a love for interaction, I specialize in building:
 - Animated, scroll-synced experiences (GSAP, ScrollTrigger)
@@ -61,6 +58,12 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 ## 📊 GitHub Stats
 
 <p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hey-itz-sameerkhan&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey-itz-sameerkhan&theme=tokyonight" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hey-itz-sameerkhan&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hey-itz-sameerkhan&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
@@ -70,10 +73,7 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 </p>
 
 <p align="center">
- 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hey-itz-sameerkhan&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hey-itz-sameerkhan&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey-itz-sameerkhan&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hey-itz-sameerkhan&theme=tokyonight&utcOffset=5.5" />
 </p>
 
@@ -87,6 +87,10 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 ---
 
 ## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
+</p>
 
 <table align="center">
   <tr>
@@ -124,14 +128,16 @@ I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from 
 
 > “Great web experiences aren’t just coded — they’re crafted.” — *Sameer Khan*
 
-
-
-
-
-
-
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
+<h1 >
+  <img src="Remove the text _SAM.png" width="400px" />
+  <br/>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=435&lines=Crafted+with+💙+by+Sameer+Khan" alt="Typing SVG" />
 </p>
+</h1>
+
+
+
