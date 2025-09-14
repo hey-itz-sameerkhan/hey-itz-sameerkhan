@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=Hey%20👋%20I'm%20Sameer%20Khan&fontColor=0d1117&fontSize=45&fontAlignY=35&desc=Innovative%20Frontend%20Web%20Developer&descSize=18&descAlign=62" />
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Pixel+Perfect+Designer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning&center=true&width=500&height=30&color=00FFFF&size=20">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Pixel+Perfect+Developer;Creative+Problem+Solver;Tech+Enthusiast;Always+Learning&center=true&width=500&height=30&color=00FFFF&size=20">
 </p>
 
 ---
