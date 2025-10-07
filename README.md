@@ -11,16 +11,7 @@
 
 I’m Sameer Khan — a passionate, detail-oriented **Frontend Developer** from India , who blends **creativity** with **code** to craft intuitive, high-performance web interfaces.  
 
-💡 With a sharp eye for design and a love for interaction, I specialize in building:
-- Animated, scroll-synced experiences (GSAP, ScrollTrigger)
-- Responsive modern UIs (React, SCSS)
-- Engaging user journeys using cutting-edge tools & micro-interactions
-
-🎯 I strongly believe in:
-- Clean, maintainable code
-- Thoughtful UI/UX decisions
-- Performance-first web development
-- Lifelong learning & open-source contributions
+💡 With a sharp eye for design and a love for interaction, 
 
 🚀 Let’s build something amazing together!
 
